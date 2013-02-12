@@ -1,0 +1,15 @@
+body {
+	font-family: sans-serif;
+}
+
+h1 {
+	color: #4c484b;
+}
+
+p {
+	margin: 5px 0;
+}
+
+.main-text {
+	letter-spacing: -1px;
+}
